@@ -1,0 +1,10 @@
+#!/bin/bash
+echo
+echo "#################################"
+echo "  Applying Adwaita Themes Patch  "
+echo "#################################"
+sleep 3
+sh /etc/skel/Layan/install.sh -l -c dark
+rm ~/.config/autostart/adw.desktop
+rm -Rf ~/Layan/
+notify-send "LibAdwaita Patch Applied!"
