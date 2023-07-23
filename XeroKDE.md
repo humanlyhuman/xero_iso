@@ -1,6 +1,6 @@
 # XeroLinux ISO Repo
 
-This here is the **Flagship** version of **XeroLinux**. It uses the **KDE Plasma** Desktop environment [Click Here](https://forum.xerolinux.xyz/thread-4.html) for full release info.
+This is the **Flagship** version of **XeroLinux**. It uses the **KDE Plasma** Desktop environment [Click Here](https://forum.xerolinux.xyz/thread-4.html) for full release info.
 
 You can either build it yourselves following the guide below, that way you always have the latest version available as of build time, if you can't, or prefer not to, you can download the pre-built ISO from the [Official Site](https://xerolinux.xyz).
 
