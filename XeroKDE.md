@@ -48,6 +48,8 @@ sudo pacman -Syyu && sudo pacman -S --noconirm neofetch git archiso base base-de
 
 That's it. Now follow below steps to build XeroLinux...
 
+-----------------------------------------------------------------------------------------------
+
 ### Step 1 - Clone Build Repo :
 
 Grab the build environment. Just note that you will need Git installed in order to do that.
