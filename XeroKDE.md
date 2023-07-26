@@ -23,6 +23,27 @@ Script was tested on <a href="https://archlinux.org">Arch</a>/<a href="https://x
 
 If you already are on any version of **XeroLinux**, you do not need to do all this, just use our tool, which has a script that will do it for you. Just launch it, go to **Post-Instal System Config** and click on the **ISO Builder** button, select option *1* **XeroLinux KDE Plasma** and watch it do its magic. Keep a close eye on it while it builds, because you will be prompted for root password, please type it so it can clean up the build environment. Finally your ISO is ready in `~/Xero-Out/` Have fun ! Otherwise follow the guide below...
 
+### Distrobox Option
+
+In case you are on somthing other than **Arch**, or don't want to install Arch to build, you always have **Distrobox** as an option. Follow [official guide](https://distrobox.privatedns.org/#installation) to install it on your specific system, then follow below steps to get the **XeroBuilder** **Arch** ccontainer up and running then follow normal steps 1 & 2 to build the ISO..
+
+- Create The Container :
+```
+distrobox create -i quay.io/toolbx-images/archlinux-toolbox -n "xerobuilder"
+```
+
+- Enter the Container :
+```
+distrobox enter xerobuilder
+```
+
+- Install necessary packages :
+```
+sudo pacman -Syyu && sudo pacman -S --noconirm neofetch git archiso base base-devel
+```
+
+That's it. Now follow below steps to build XeroLinux...
+
 ### Step 1 - Clone Build Repo :
 
 Grab the build environment. Just note that you will need Git installed in order to do that.
