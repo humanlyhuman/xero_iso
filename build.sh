@@ -19,7 +19,7 @@ echo
 	desktop="plasma"
 	dmDesktop="plasma"
 
-	xerolinuxVersion='2023.08'
+	xerolinuxVersion='2023.07'
 
 	isoLabel='xerolinux-'$xerolinuxVersion'-x86_64.iso'
 
