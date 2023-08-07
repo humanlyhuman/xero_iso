@@ -278,6 +278,7 @@ adobe-source-sans-pro-fonts
 kvantum
 neofetch
 gtk-engines
+kwin-bismuth
 latte-dock-git
 gtk-engine-murrine
 lightlyshaders-git
@@ -483,8 +484,10 @@ libpamac
 pamac-cli
 pamac-gtk
 pacseek-bin
+libpamac-aur-plugin
 pamac-tray-icon-plasma
 libpamac-flatpak-plugin
+libpamac-appstream-plugin
 
 #######################################################
 ###                    EXTRAS                       ###

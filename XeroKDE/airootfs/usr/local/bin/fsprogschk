@@ -23,3 +23,5 @@ else
     echo -e "${BLUE}No XFS or BTRFS partitions found. Removing both Progs Packages.${NC}"
     sudo pacman -Rdd --noconfirm xfsprogs btrfs-progs
 fi
+
+rm /usr/local/bin/fsprogschk
