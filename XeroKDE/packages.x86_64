@@ -456,7 +456,6 @@ python-cffi
 python-numpy
 python-docopt
 python-pyaudio
-python-anytree
 python-pyparted
 python-pygments
 python-websockets
