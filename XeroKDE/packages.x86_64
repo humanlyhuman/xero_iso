@@ -484,10 +484,8 @@ pamac-cli
 pamac-gtk
 pacseek-bin
 pacman-mirrorup
-libpamac-aur-plugin
 pamac-tray-icon-plasma
 libpamac-flatpak-plugin
-libpamac-appstream-plugin
 
 #######################################################
 ###                    EXTRAS                       ###
