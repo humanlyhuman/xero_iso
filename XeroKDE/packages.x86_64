@@ -1,9 +1,3 @@
-#####################################################################
-##                            PACKAGES AVAILABLE
-#####################################################################
-
-### archiso
-
 archiso
 alsa-utils
 amd-ucode
@@ -14,10 +8,10 @@ base
 base-devel
 bind
 brltty
+broadcom-wl
 btrfs-progs
 clonezilla
 cloud-init
-crda
 darkhttpd
 ddrescue
 dhclient
@@ -30,6 +24,7 @@ dosfstools
 e2fsprogs
 edk2-shell
 efibootmgr
+espeakup
 ethtool
 exfatprogs
 f2fs-tools
@@ -42,6 +37,8 @@ gpart
 gparted
 gpm
 gptfdisk
+grml-zsh-config
+grub
 hdparm
 hyperv
 intel-ucode
@@ -49,9 +46,9 @@ irssi
 iw
 iwd
 jfsutils
-kinit
 kitty-terminfo
 less
+lftp
 libfido2
 libusb-compat
 linux
@@ -81,8 +78,10 @@ nilfs-utils
 nmap
 ntfs-3g
 nvme-cli
-openconnect
 open-iscsi
+open-vm-tools
+openconnect
+openpgp-card-tools
 openssh
 openvpn
 partclone
@@ -92,12 +91,15 @@ pcsclite
 ppp
 pptpclient
 pv
+refind
 reflector
 #refind
 rp-pppoe
 rsync
+rxvt-unicode-terminfo
 screen
 sdparm
+sequoia-sq
 sg3_utils
 smartmontools
 sof-firmware
@@ -110,11 +112,13 @@ terminus-font
 testdisk
 tldr
 tmux
+tpm2-tools
 tpm2-tss
 udftools
 usb_modeswitch
 usbmuxd
 usbutils
+vim
 vpnc
 wezterm-terminfo
 wireguard-tools
@@ -125,6 +129,7 @@ wvdial
 xdotool
 xfsprogs
 xl2tpd
+zsh
 
 ### Grub Stuff
 
@@ -501,7 +506,7 @@ xorg-server
 spice-vdagent
 open-vm-tools
 qemu-guest-agent
-virtualbox-guest-utils
+virtualbox-guest-utils-nox
 
 
 #######################################################
