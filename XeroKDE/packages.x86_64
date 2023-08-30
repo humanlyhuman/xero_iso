@@ -37,7 +37,6 @@ gpart
 gparted
 gpm
 gptfdisk
-grml-zsh-config
 grub
 hdparm
 hyperv
@@ -129,7 +128,6 @@ wvdial
 xdotool
 xfsprogs
 xl2tpd
-zsh
 
 ### Grub Stuff
 
