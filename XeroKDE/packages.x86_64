@@ -504,7 +504,7 @@ xorg-server
 spice-vdagent
 open-vm-tools
 qemu-guest-agent
-virtualbox-guest-utils-nox
+virtualbox-guest-utils
 
 
 #######################################################
