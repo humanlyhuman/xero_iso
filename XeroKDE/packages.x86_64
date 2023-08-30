@@ -258,7 +258,6 @@ numlockx
 lm_sensors
 samba-support
 appstream-glib
-#systemd-manager-git
 
 ### Bat to replace cat
 
@@ -420,6 +419,7 @@ modemmanager
 networkmanager
 nm-cloud-setup
 rate-mirrors-bin
+systemd-resolvconf
 networkmanager-vpnc
 networkmanager-pptp
 networkmanager-l2tp
