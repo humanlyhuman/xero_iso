@@ -276,6 +276,12 @@ awesome-terminal-fonts
 ttf-jetbrains-mono-nerd
 adobe-source-sans-pro-fonts
 
+### Kate Plugins
+
+bash-language-server
+typescript-language-server
+vscode-json-languageserver
+
 ### Theme Tools
 
 kvantum
@@ -483,12 +489,8 @@ ffmpegthumbs
 yay-bin
 flatpak
 topgrade
-pamac-cli
 pacseek-bin
-pamac-nosnap
 pacman-mirrorup
-libpamac-nosnap
-pamac-tray-icon-plasma
 
 #######################################################
 ###                    EXTRAS                       ###
