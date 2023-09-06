@@ -106,7 +106,6 @@ sof-firmware
 squashfs-tools
 sudo
 syslinux
-systemd-resolvconf
 tcpdump
 terminus-font
 testdisk
@@ -431,6 +430,7 @@ networkmanager-l2tp
 network-manager-sstp
 network-manager-applet
 networkmanager-openvpn
+systemd-boot-pacman-hook
 networkmanager-strongswan
 networkmanager-fortisslvpn
 networkmanager-openconnect
