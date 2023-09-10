@@ -138,7 +138,7 @@ update-grub
 
 ### archiso-extra
 
-exa
+eza
 ntp
 most
 wget
@@ -432,7 +432,6 @@ network-manager-applet
 networkmanager-openvpn
 systemd-boot-pacman-hook
 networkmanager-strongswan
-networkmanager-fortisslvpn
 networkmanager-openconnect
 mobile-broadband-provider-info
 
