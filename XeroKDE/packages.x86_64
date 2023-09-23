@@ -396,6 +396,7 @@ gst-plugins-ugly
 
 ## Pipewire Audio
 
+kpipewire
 wireplumber
 pipewire-jack
 pipewire-support
@@ -532,6 +533,7 @@ kmenuedit
 ksysguard
 bluedevil
 kio-admin
+kio-extras
 powerdevil
 libkscreen
 flatpak-kcm
@@ -576,6 +578,7 @@ pacman-contrib
 #qt6-wayland
 #egl-wayland
 #xorg-xwayland
+#layer-shell-qt
 #kwayland-server
 #kwayland-integration
 #plasma-wayland-session
@@ -595,10 +598,13 @@ dolphin
 kdialog
 konsole
 merkuro
+audiotube
+alligator
 kmousetool
 ksystemlog
 khelpcenter
 kwallet-pam
+audiocd-kio
 markdownpart
 kwalletmanager
 
