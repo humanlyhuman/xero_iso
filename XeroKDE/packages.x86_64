@@ -395,7 +395,7 @@ gst-plugins-bad
 gst-plugins-base
 gst-plugins-ugly
 gst-plugins-good
-gst-plugins-pipewire
+gst-plugin-pipewire
 
 ## Pipewire Audio
 
