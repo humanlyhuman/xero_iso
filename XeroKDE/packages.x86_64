@@ -394,6 +394,8 @@ gst-libav
 gst-plugins-bad
 gst-plugins-base
 gst-plugins-ugly
+gst-plugins-good
+gst-plugins-pipewire
 
 ## Pipewire Audio
 
