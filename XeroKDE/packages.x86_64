@@ -592,6 +592,7 @@ plasma-wayland-protocols
 
 ## Utilities
 
+ark
 kgpg
 kate
 kfind
@@ -600,14 +601,17 @@ dolphin
 kdialog
 konsole
 merkuro
+wavpack
 audiotube
 alligator
+unarchiver
 kmousetool
 ksystemlog
 khelpcenter
 kwallet-pam
 audiocd-kio
 markdownpart
+gnustep-base
 kwalletmanager
 
 ## Networking
