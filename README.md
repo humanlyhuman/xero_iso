@@ -43,7 +43,7 @@ distrobox enter xerobuilder
 
 - Install necessary packages :
 ```
-sudo pacman -Syyu && sudo pacman -S --noconirm neofetch git archiso base base-devel
+sudo pacman -Syyu && sudo pacman -S --noconfirm neofetch git archiso base base-devel
 ```
 
 That's it. Now follow below steps to build XeroLinux...
